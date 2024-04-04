@@ -2,6 +2,6 @@
 
 int  main(void)
 {
-  write(1,"Z",1);
+  write(1,"Z\n",2);
   return (0);
 }
